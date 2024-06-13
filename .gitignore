@@ -8,6 +8,9 @@
 # results
 results/
 
+# exams
+exams/
+
 # Configs
 # configs/
 
@@ -15,7 +18,7 @@ results/
 homework/
 
 # Slides
-slides/
+# slides/
 
 # Data
 data/prepare_IAM_Lines/lines/
